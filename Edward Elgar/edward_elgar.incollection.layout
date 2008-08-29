@@ -1,0 +1,28 @@
+\format[AuthorsEdwardElgar,RemoveTilde,NoSpaceBetweenAbbreviations,RTFChars]{\author} (\year),
+} '{\format[RTFChars]{\title}}'{
+\begin{editor}
+, }in {\format[EditorsEdwardElgar,RemoveTilde,NoSpaceBetweenAbbreviations,RTFChars]{\editor},
+\end{editor}
+\begin{booktitle}
+ {\\i \format[RTFChars]{\booktitle}}
+\end{booktitle}
+\begin{series}
+, \series
+\end{series}
+\begin{volume}
+, Vol. \volume
+\end{volume}
+\begin{number}
+, Nr. \number
+\end{number}
+\begin{address}
+, \format[RTFChars]{\address}:
+\end{address}
+\begin{publisher}
+ \format[RTFChars]{\publisher}
+\end{publisher}
+\begin{pages}
+, pp. \pages
+\end{pages}.
+\\par
+\\par
