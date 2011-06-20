@@ -1,0 +1,10 @@
+\format[AuthorsEdwardElgar,RemoveTilde,NoSpaceBetweenAbbreviations,RTFChars]{\author} \year, 
+\format[RTFChars]{\title}
+\begin{howpublished}
+, \howpublished
+\end{howpublished}
+\begin{note}
+, \note
+\end{note}.
+\\par
+\\par
