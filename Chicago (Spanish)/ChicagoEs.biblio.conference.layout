@@ -1,0 +1,6 @@
+\begin{author}
+\format[RTFChars,AuthorLastFirstCommas]{\author}. \end{author}
+\begin{title}"\format[RTFChars]{\title}." \end{title}\format[RTFChars]{Ponencia presentada en la reunión de la} \format[RTFChars]{\booktitle}, 
+\begin{address}\format[RTFChars]{\address},\end{address} 
+\begin{month}\format[RTFChars]{\month} de \end{month}
+\begin{year}\format[RTFChars]{\year}. \end{year}\\par\\par
