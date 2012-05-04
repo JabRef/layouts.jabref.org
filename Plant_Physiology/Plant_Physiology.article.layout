@@ -1,0 +1,13 @@
+{\\b \format[RTFChars,Plant_phys,Replace(\\.~,)]{\author}} (\year) 
+
+\format[RTFChars]{\title} 
+
+\format[RTFChars]{\journal}{ }{\\b \volume:} 
+
+\begin{pages}
+\format[Replace(--,-)]{\pages}
+\end{pages}
+
+
+\\par
+\\par

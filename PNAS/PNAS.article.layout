@@ -1,0 +1,11 @@
+\format[PNAS,Replace(\\.~,)]{\author} (\year) \title 
+
+{\\i \format[RTFChars]{ }{\journal}}{ }{\volume:}
+
+\begin{pages}
+\format[RTFChars,FormatPagesForHTML]{\pages}
+\end{pages}
+
+.
+\\par
+\\par

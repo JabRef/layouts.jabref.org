@@ -1,0 +1,11 @@
+\format[Nature]{\author}{\title}. 
+
+{\\i \format[RTFChars]{\journal}} {\\b \volume, }
+
+\begin{pages}
+\format[RTFChars,FormatPagesForHTML]{\pages}
+\end{pages} 
+
+(\year).
+\\par
+\\par

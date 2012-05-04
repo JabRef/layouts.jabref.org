@@ -1,0 +1,13 @@
+{\\b \format[RTFChars,AuthorLastFirstAbbrCommas,NoSpaceBetweenAbbreviations]{\author}} (\year) 
+
+ \format[RTFChars]{\title} 
+
+{\\i \format[RTFChars]{\journal}}{, }{\\b \volume}, 
+
+\begin{pages}
+\format[RTFChars,FormatPagesForHTML]{\pages}
+\end{pages}
+
+.
+\\par
+\\par

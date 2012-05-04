@@ -1,0 +1,13 @@
+\format[PLOS,Replace(\\.~,)]{\author}(\year) 
+
+\format[RTFChars]{\title} 
+
+\format[RTFChars]{\journal} \volume: 
+
+\begin{pages}
+\format[Replace(--,-)]{\pages}
+\end{pages}
+
+.
+\\line
+\\par

@@ -1,0 +1,9 @@
+\format[RTFChars,AuthorLastFirstAbbrCommas]{\author} (\year) 
+
+{\\i \format[RTFChars]{\journal}} {\\b \volume}, 
+
+\begin{pages}
+\format[RTFChars,FormatPagesForHTML]{\pages}
+\end{pages}
+
+\\par
