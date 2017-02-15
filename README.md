@@ -11,6 +11,32 @@ Export-Filter Editor for Jabref](https://sourceforge.net/projects/efe/) to quick
 
 <!-- toc -->
 
+- [Howto](#howto)
+- [Other Layout Files](#other-layout-files)
+  * [APA export filter](#apa-export-filter)
+  * [CSV export filter with Mendeley tags](#csv-export-filter-with-mendeley-tags)
+  * [Daniel Haertle's HTML export filter](#daniel-haertles-html-export-filter)
+  * [Mark Schenk's HTML export filters](#mark-schenks-html-export-filters)
+  * [Truong X. Nghiem's HTML export filter](#truong-x-nghiems-html-export-filter)
+- [Available Layout Files](#available-layout-files)
+  * [Chicago Manual of Style](#chicago-manual-of-style)
+  * [Dev_Biology](#dev_biology)
+  * [Edward Elgar](#edward-elgar)
+  * [Gene](#gene)
+  * [International Journal of Greenhouse Gas (IJoGGC) export filters](#international-journal-of-greenhouse-gas-ijoggc-export-filters)
+  * [J_Biol_Chem](#j_biol_chem)
+  * [Journal of experimental Botany](#journal-of-experimental-botany)
+  * [Kate Turabian’s A Manual for Writers of Term Papers, Theses, and Dissertations](#kate-turabians-a-manual-for-writers-of-term-papers-theses-and-dissertations)
+  * [Mechan_Development](#mechan_development)
+  * [Mol_Genet_Gen](#mol_genet_gen)
+  * [Nature](#nature)
+  * [The Plant Cell](#the-plant-cell)
+  * [Plant_Physiology](#plant_physiology)
+  * [PLos_Biology](#plos_biology)
+  * [Proceedings of the National Academic Sciences](#proceedings-of-the-national-academic-sciences)
+  * [The_Plant_Journal](#the_plant_journal)
+- [License](#license)
+
 <!-- tocstop -->
 
 ## Howto
@@ -71,6 +97,14 @@ Truong X. Nghiem's HTML export filter provides an HTML listing of your reference
 At some layout files, some layouts might be missing.
 For instance, the book layout is missing at PNAS.
 
+
+### Chicago Manual of Style
+
+Documentation is at [Chicago (English)/README.md](Chicago (English)/README.md).
+
+- Directory: [Chicago (English)](Chicago (English)/) and [Chicago (Spanish)](Chicago (Spanish)/)
+
+
 ### Dev_Biology
 
 - File extension: `.rtf`
@@ -110,6 +144,13 @@ It formats the exported .rtf file into the format required by lots of Elsevier J
 - File extension: `.rtf`
 - Addtional name formatter: **J_Exp_Bot**: `*@1..-2@{vv }{ll} {f}, @-1@{vv }{ll} {f}.`
 - Author: Marten Kooiker
+
+
+### Kate Turabian’s A Manual for Writers of Term Papers, Theses, and Dissertations
+
+Documentation is at [Chicago (English)/README.md](Chicago (English)/README.md).
+
+- Directory: [Turabian (English)](Turabian (English)/) and [Turabian (Spanish)](Turabian (Spanish)/)
 
 
 ### Mechan_Development
