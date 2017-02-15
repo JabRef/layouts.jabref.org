@@ -13,13 +13,35 @@ Export-Filter Editor for Jabref](https://sourceforge.net/projects/efe/) to quick
 
 <!-- tocstop -->
 
+## Howto
+
+- Download <https://github.com/JabRef/layouts.jabref.org/archive/master.zip>.
+- Extract `master.zip`
+- JabRef > Options > Manage custom exports > Add new
+  - Export name: its up to you (e.g., `IJoGGC`)
+  - Main layout file: Choose the right `.layout` file. (e.g., `IJoGGC.layout`)
+    - Browse to your folder, where you safed the layout files
+	- File extension: `.rtf` (depdening on the layout file)
+  - `OK`
+- If you now you go to File > Export, Jabref will open a window where you can choose different types of exportfilters below. Select Files of type: IJoGGC(*.rtf).
+
+
 ## Available Layout Files
 
-### Brazilian Journal of Aquatic Science and Technology
 
-- Author: Colin Beasley
-- File: [BJAST.jstyle](BJAST.jstyle)
+### Edward Elgar
 
+- Author:  Christian Bartolomaeus
+- Directory: [Edward Elgar](Edward Elgar/)
+
+
+## International Journal of Greenhouse Gas (IJoGGC) export filters
+
+This filter is a modified version of Edwared Elgar's export filters.
+It formats the exported .rtf file into the format required by lots of Elsevier Journals.
+
+- File extension: `.rtf`
+- Main layout file: IJoGGC.layout
 
 
 ## License
