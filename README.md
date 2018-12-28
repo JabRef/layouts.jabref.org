@@ -100,9 +100,10 @@ For instance, the book layout is missing at PNAS.
 
 ### Chicago Manual of Style
 
-Documentation is at [Chicago (English)/README.md](Chicago (English)/README.md).
+Documentation is at [Chicago (English)/README.md](Chicago%20(English)/README.md).
 
-- Directory: [Chicago (English)](Chicago (English)/) and [Chicago (Spanish)](Chicago (Spanish)/)
+- Directory: [Chicago (English)](Chicago%20(English)/) and [Chicago (Spanish)](Chicago%20(Spanish)/)
+- Author: Juan José Baldrich
 
 
 ### Dev_Biology
@@ -113,7 +114,7 @@ Documentation is at [Chicago (English)/README.md](Chicago (English)/README.md).
 
 ### Edward Elgar
 
-- Directory: [Edward Elgar](Edward Elgar/)
+- Directory: [Edward Elgar](Edward%20Elgar/)
 - Author:  Christian Bartolomaeus
 
 
@@ -129,7 +130,7 @@ This filter is a modified version of Edwared Elgar's export filters.
 It formats the exported .rtf file into the format required by lots of Elsevier Journals.
 
 - File extension: `.rtf`
-- Main layout file: IJoGGC.layout
+- Main layout file: [IJoGGC.layout](International%20Journal%20of%20Greenhouse%20Gas%20(IJoGGC)/IJoGGC.layout)
 
 
 ### J_Biol_Chem
@@ -148,10 +149,10 @@ It formats the exported .rtf file into the format required by lots of Elsevier J
 
 ### Kate Turabian’s A Manual for Writers of Term Papers, Theses, and Dissertations
 
-Documentation is at [Chicago (English)/README.md](Chicago (English)/README.md).
+Documentation is at [Turabian (English)//TURABIAN.README](Turabian%20(English)//TURABIAN.README).
 
-- Directory: [Turabian (English)](Turabian (English)/) and [Turabian (Spanish)](Turabian (Spanish)/)
-
+- Directory: [Turabian (English)](Turabian%20(English)/) and [Turabian (Spanish)](Turabian%20(Spanish)/)
+- Author: Juan José Baldrich
 
 ### Mechan_Development
 
