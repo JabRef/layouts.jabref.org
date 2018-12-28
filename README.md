@@ -149,7 +149,7 @@ It formats the exported .rtf file into the format required by lots of Elsevier J
 
 ### Kate Turabian’s A Manual for Writers of Term Papers, Theses, and Dissertations
 
-Documentation is at [Turabian (English)//TURABIAN.README](Turabian%20(English)//TURABIAN.README).
+Documentation is at [Chicago (English)/README.md](Chicago%20(English)/README.md).
 
 - Directory: [Turabian (English)](Turabian%20(English)/) and [Turabian (Spanish)](Turabian%20(Spanish)/)
 - Author: Juan José Baldrich
