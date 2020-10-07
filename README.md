@@ -1,9 +1,8 @@
 # .layout files for JabRef
 
 This repository contains laoyut files used for JabRef.
-The can be used to create custom export filters as described at <http://help.jabref.org/en/CustomExports>.
-One can use the [
-Export-Filter Editor for Jabref](https://sourceforge.net/projects/efe/) to quickly create his own export filter.
+The can be used to create custom export filters as described at <https://docs.jabref.org/collaborative-work/export/customexports>.
+One can use the [Export-Filter Editor for Jabref](https://sourceforge.net/projects/efe/) to quickly create ones own export filter.
 
 ## Table of Contents
 
